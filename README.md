@@ -18,4 +18,4 @@ A simple CRUD-based Todo application backend built with Spring Boot and MongoDB.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+  https://github.com/Himanshu202002/todo-app-springboot
